@@ -1,19 +1,16 @@
-# OpenWA Dashboard
+# OpenWA Docker Deployment
 
 <p align="center">
   <img src="../docs/logo/openwa_logo.webp" alt="OpenWA Logo" width="120"/>
 </p>
 
-Modern web dashboard for managing OpenWA WhatsApp API Gateway sessions, webhooks, and infrastructure.
+This project demonstrates how to deploy OpenWA using Docker Compose on Ubuntu Linux.
+## Features
 
-## ✨ Features
-
-- **Session Management** - Create, monitor, and control WhatsApp sessions
-- **QR Code Authentication** - Real-time QR code display for device pairing
-- **Webhook Configuration** - Configure and test webhook endpoints
-- **API Key Management** - Generate and manage API keys
-- **Infrastructure Monitoring** - View system health and storage status
-- **Real-time Updates** - Live session status via WebSocket
+- Docker
+- Docker Compose
+- WhatsApp API
+- QR Authentication
 
 ## 🛠️ Tech Stack
 
