@@ -1,5 +1,7 @@
 # OpenWA Docker Deployment
 
+![OpenWA Dashboard](screenshots/dashboard.png)
+
 <p align="center">
   <img src="../docs/logo/openwa_logo.webp" alt="OpenWA Logo" width="120"/>
 </p>
